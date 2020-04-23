@@ -17,8 +17,4 @@ commander.on('command:*',  (cmd) => {
   codeceptHandler(cmd);
 });
 
-if (process.argv.length <= 2) {
-  commander.outputHelp();
-}
-
 commander.parse(process.argv);

@@ -28,7 +28,10 @@
   ],
   "license": "MIT",
   "main": "lib/index.js",
-  "name": "codecept-bdd",
+  "name": "codecept-cli",
+  "peerDependencies": {
+    "codeceptjs": "^2.x.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hoshomoh/codecept-cli.git"
@@ -36,5 +39,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
