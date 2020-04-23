@@ -1,0 +1,40 @@
+{
+  "author": {
+    "name": "hoshomoh",
+    "email": "hello@oshomo.oforomeh.com",
+    "url": "http://oshomo.oforomeh.com"
+  },
+  "bin": {
+    "codeceptcli": "bin/codecept-cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/hoshomoh/codecept-cli/issues"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.0.0",
+    "figures": "^3.2.0"
+  },
+  "deprecated": false,
+  "description": "Helper functions and commands for codeceptJS.",
+  "engines": {
+    "node": ">=8.9.1",
+    "npm": ">=5.6.0"
+  },
+  "es6": true,
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "codecept-bdd",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoshomoh/codecept-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
