@@ -1,7 +1,7 @@
 # codecept-cli
 Helper functions and commands for CodeceptJs.
 
-## Installing.
+## Installing
 ```node
 npm i codecept-cli -D
 ```

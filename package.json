@@ -27,6 +27,16 @@
     "bin",
     "lib"
   ],
+  "keywords": [
+    "codeceptjs",
+    "codeceptjs-bdd",
+    "codeceptjs-cli",
+    "codeceptjs-testing",
+    "codeceptjs-e2e",
+    "end2end",
+    "end 2 end",
+    "bdd"
+  ],
   "license": "MIT",
   "main": "lib/index.js",
   "name": "codecept-cli",
@@ -40,5 +50,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
